@@ -1,5 +1,5 @@
 
-#The problem: CLup – Customers Line-up
+# The problem: CLup – Customers Line-up
 The coronavirus emergency has put a strain on society on many levels, due to many countries imposing
 lockdowns that allow people to exit their homes only for essential needs, and enforcing strict rules even
 when people are justified in going out (such as limiting the number of accesses to buildings and keeping

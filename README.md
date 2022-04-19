@@ -23,15 +23,15 @@ application could be used to generate QR codes that would be scanned upon enteri
 allowing store managers to monitor entrances. For the application to effectively work in practice, all 
 customers should use it to access the store, which has a number of consequences, including the
 following ones:
-● The application should be very simple to use, as the range of users include all demographics
+* The application should be very simple to use, as the range of users include all demographics
 (everyone needs to do grocery shopping).
-● The lining up mechanism should be effective. There is a real risk that the approach does not
+* The lining up mechanism should be effective. There is a real risk that the approach does not
 work in the case the customer arrives to the grocery store after his/her number is called, or too
 early, as in this case we would get back into a physical line situation. This implies that the system
 should provide customers with a reasonably precise estimation of the waiting time and should
 alert them taking into account the time they need to get to the shop from the place they
 currently are.
-● Fallback options should be available for people who do not have access to the required
+* Fallback options should be available for people who do not have access to the required
 technology; for example, stores should also have the possibility to hand out “tickets” on the
 spot, thus acting as proxies for the customers.
 In addition to managing lines in real-time, the application could also allow customers to “book” a visit
